@@ -14,7 +14,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 Activate nvm by typing the following at the command line.
 
 ```bash
-source ~/.bash_profile
+source ~/.bash_profile or  . ~/.num/num .sh
 ```
 
 Use nvm to install the latest version of Node.js by typing the following at the command line.
